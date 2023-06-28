@@ -1,0 +1,17 @@
+Marcela Costa - CEO (Chief Executive Officer):
+É a CEO da DeliverySafe e a líder visionária da empresa, responsável por definir a estratégia de negócios, tomar decisões importantes e garantir o crescimento e sucesso contínuo da empresa. Trabalha em estreita colaboração com os outros departamentos, definindo metas e direcionando a empresa para alcançar resultados excelentes.
+
+Diego Mendonça - Programador:
+É um talentoso programador que trabalha na equipe de desenvolvimento de software da DeliverySafe, é especializado em criar e manter sistemas e aplicativos tecnológicos para otimizar as operações da empresa. Desenvolve soluções inovadoras, realiza testes e depuração de código, e implementa novos recursos para melhorar a experiência do usuário e a eficiência dos processos internos.
+
+Rafael Castro - Analista de Tecnologia da Informação:
+Responsável por cuidar da infraestrutura tecnológica da empresa, gerencia os sistemas de rastreamento de encomendas, desenvolve e mantém o website e o aplicativo móvel, e implementa soluções tecnológicas para melhorar a eficiência operacional, também lida com questões de segurança da informação e mantém a rede de comunicação da empresa em pleno funcionamento.
+
+Sofia Rodrigues - Analista de Qualidade:
+Responsável por garantir a qualidade dos serviços de entrega da DeliverySafe, analisa e avalia os processos internos, realiza auditorias para identificar possíveis melhorias e implementa medidas para garantir a satisfação do cliente, monitora as métricas de desempenho e desenvolve estratégias para manter altos padrões de qualidade.
+
+Carlos Almeida - Coordenador de Logística:
+Desempenha um papel fundamental na gestão da logística da empresa, supervisiona o planejamento e a otimização das rotas de entrega, garantindo itinerários eficientes, também coordena a distribuição adequada dos recursos da empresa para atender à demanda dos clientes.
+
+Lucas Santos - Atendente de Suporte ao Cliente:
+Trabalha no departamento de atendimento ao cliente, fornecendo suporte e assistência aos clientes que têm dúvidas, sugestões ou reclamações, responsável por responder a chamadas telefônicas, e-mails e mensagens, garantindo um atendimento de qualidade e solucionando problemas.
