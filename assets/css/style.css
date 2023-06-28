@@ -1,0 +1,68 @@
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fontes/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: "MontserratExtraBold";
+    src: url(../fontes/Montserrat-ExtraBold.ttf);
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+     font-family: "Montserrat";
+
+}
+
+
+.navbar-brand .logo{
+width: 6rem;
+
+
+}
+
+.navbar-nav li{
+margin-right: 24px;
+font-size: 16px;
+font-weight: 700;
+
+}
+
+.navbar-nav li a{
+    color:#000;
+}
+
+
+
+
+.banner{
+    height: 470px;
+    background-image: url("../img/estrutura/banner.png") ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.texto_banner{
+width: 600px;
+padding-top: 70px;
+font-family: "MontserratExtraBold" !important;
+color: #000;
+
+}
+
+.texto_banner h1{
+
+font-size: 2.4rem;
+
+}
+
+.texto_banner h1 .slogan{
+
+    color:#fcc600;
+    font-weight: 900;
+}
