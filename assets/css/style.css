@@ -65,18 +65,20 @@ body {
     color: #fcc600;
     font-weight: 900;
 }
-.div_titulo{
-width: 600px;
-text-align: center;
+
+.div_titulo {
+    width: 600px;
+    text-align: center;
 
 }
-.titulo{
-font-family: "MontserratExtraBold";
 
-font-size: 30px;
-font-weight: 900;
-padding-top: 40px;
-padding-bottom: 35px;
+.titulo {
+    font-family: "MontserratExtraBold";
+
+    font-size: 30px;
+    font-weight: 900;
+    padding-top: 40px;
+    padding-bottom: 35px;
 
 }
 
@@ -98,7 +100,7 @@ padding-bottom: 35px;
 }
 
 .texto_box {
-margin-top: 15px;
+    margin-top: 15px;
     text-align: center;
     font-weight: 700;
     width: 300px;
@@ -119,26 +121,155 @@ margin-top: 15px;
     width: 210px;
 }
 
-.section_delivery{
-    height: 525px;
+.section_delivery {
+    height: 550px;
 
     background-color: #FFF4CC;
 }
 
-.apresentacao{
-margin-top: 40px;
-/* margin-bottom: 100px; */
+.apresentacao {
+    margin-top: 40px;
+    /* margin-bottom: 100px; */
 
 
 }
 
-.img_apres img{ 
-width: 300px;
+.img_apres img {
+    width: 300px;
 
 }
 
-.tex_apres{
-  text-align: justify;
+.tex_apres {
+    text-align: justify;
+}
+
+.cartao {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+
+
+.img_circulo img {
+
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: contain;
+    /* border: 2px solid#000; */
+    background-color: #455A64;
+    box-shadow: -11px 7px 20px 0px gray;
+}
+
+.texto_equipe {
+
+    text-align: justify;
+
+}
+
+.nome_equipe {
+    margin-top: 5%;
    
 
+}
+
+.nome_equipe h5{
+    font-weight: 900;
+}
+
+.funcao_equipe h5 {
+font-weight: 900;
+    margin-bottom: 5%;
+}
+.contatos_sections{
+
+    height: 480px;
+    background-color: #FFF4CC;
+
+}
+
+.contato_txto{
+    text-align: justify;
+    font-size: 25px;
+    padding-right: 30px;
+}
+
+.texto_caixa{
+
+    font-weight: 900;
+
+}
+
+.pergunta{
+  font-weight: 900;
+  font-size: 20px;
+
+  
+}
+.resposta{
+    margin-top: 18px;
+    
+   
+}
+
+.grupo{
+   
+  margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.conteudo{
+    margin-top: 18px;
+ 
+   flex: 3;
+  
+   text-align: justify;
+}
+.img_icone{
+    margin-top: 18px;
+    display: flex;
+    justify-content: center;
+   
+  flex:1;
+ 
+}
+.circulo_icone{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:#FFEBA3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+font-size: 22px;
+box-shadow: -2px 4px 14px 2px gray;
+
+
+}
+
+.linha{
+border-right:1px solid #000 ;
+
+}
+
+.rodape{
+
+    background-image: url("../img/estrutura/rodape.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+     display: flex;
+    justify-content: center;
+    align-items: flex-end; 
+}
+
+
+.meunu_rodape li{
+    text-decoration: none;
 }

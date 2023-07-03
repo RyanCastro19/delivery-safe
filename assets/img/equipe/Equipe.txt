@@ -4,7 +4,7 @@ Marcela Costa - CEO (Chief Executive Officer):
 Diego Mendonça - Programador:
 É um talentoso programador que trabalha na equipe de desenvolvimento de software da DeliverySafe, é especializado em criar e manter sistemas e aplicativos tecnológicos para otimizar as operações da empresa. Desenvolve soluções inovadoras, realiza testes e depuração de código, e implementa novos recursos para melhorar a experiência do usuário e a eficiência dos processos internos.
 
-Rafael Castro - Analista de Tecnologia da Informação:
+ - Analista de Tecnologia da Informação:
 Responsável por cuidar da infraestrutura tecnológica da empresa, gerencia os sistemas de rastreamento de encomendas, desenvolve e mantém o website e o aplicativo móvel, e implementa soluções tecnológicas para melhorar a eficiência operacional, também lida com questões de segurança da informação e mantém a rede de comunicação da empresa em pleno funcionamento.
 
 Sofia Rodrigues - Analista de Qualidade:
